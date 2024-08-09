@@ -1,0 +1,163 @@
+{
+    "color1": "#226572",
+    "color2": "#c7f4f4",
+    "color3": "#539375",
+    "color4": "#76aadb",
+    "color5": "#556777",
+    "siteTitle": "CancerFree 2024 Summer Intern Demo Day",
+    "navigation": [
+        {
+            "label": "Introduction",
+            "link": "#intro"
+        },
+        {
+            "label": "Speakers",
+            "link": "#speakers"
+        },
+        {
+            "label": "Agenda",
+            "link": "#agenda"
+        },
+        {
+            "label": "Documents",
+            "link": "#documents"
+        },
+        {
+            "label": "FAQ",
+            "link": "#faq"
+        },
+        {
+            "label": "Register",
+            "link": "#register"
+        }
+    ],
+    "languages": [
+        {
+            "label": "English",
+            "code": "en",
+            "active": true
+        },
+        {
+            "label": "中文",
+            "code": "zh",
+            "active": false
+        }
+    ],
+    "hero": {
+        "title": "CancerFree 2024 Summer Intern Demo Day",
+        "date": "2024/08/15",
+        "ctaButton": {
+            "text": "Register Now",
+            "link": "#register"
+        },
+        "backgroundImage": "./images/imageKV.jpg"
+    },
+    "introduction": {
+        "title": "世代的逆襲 創世紀挑戰賽",
+        "content": "為期兩個月的暑期實習，包含商務發展、程式工程、研究人員、市場行銷與設計，每一位實習生各個摩拳擦掌，從對職場的不熟悉感，直到遇到不同的挑戰都待實習生們克服並有效吸收。藉由這個機會，一同參與檢視我們的能力，迎向更美好的未來！\r\nOver the course of a two-month summer internship encompassing business development, software engineering, research, marketing, and design, each intern eagerly anticipates the challenges ahead. From initial unfamiliarity with the workplace to overcoming diverse challenges, interns are poised to absorb and excel. This opportunity allows us to collectively assess our capabilities and embrace a brighter future!",
+        "image": "./images/intro-image.jpg"
+    },
+    "speakers": {
+        "title": "Speakers",
+        "list": [
+            {
+                "name": "Leo Lee",
+                "photo": "./images/LEO.jpg",
+                "title": "BD intern",
+                "description": "King's College London - Biomedical Science"
+            },
+            {
+                "name": "Steven Hendric",
+                "photo": "./images/STEVEN.jpg",
+                "title": "Lab intern",
+                "description": "National Taiwan University - Life Science"
+            },
+            {
+                "name": "Alston Liang",
+                "photo": "./images/ALSTON.jpg",
+                "title": "Lab intern",
+                "description": "Taipei Medical University - Biomedical Engineering"
+            },
+            {
+                "name": "Ethan Tsai",
+                "photo": "./images/ETHAN.jpg",
+                "title": "Lab/IT intern",
+                "description": "Taipei European School"
+            },
+            {
+                "name": "Selenium Tang",
+                "photo": "./images/SELENIUM.jpg",
+                "title": "IT intern",
+                "description": "Taipei Medical University - Biomedical Engineering"
+            },
+            {
+                "name": "Cherry Yeh",
+                "photo": "./images/CHERRY.jpg",
+                "title": "IT intern",
+                "description": "Taipei Medical University - Biomedical Engineering"
+            },
+            {
+                "name": "Yvonne Chen",
+                "photo": "./images/YVONNE.jpg",
+                "title": "MKT intern",
+                "description": "Tameyou Faqunzu Wobuzhidao - Fanzhengshi Ceshi"
+            }
+        ]
+    },
+    "agenda": {
+        "title": "Agenda",
+        "image": "./images/agenda.jpg"
+    },
+    "documents": {
+        "title": "Documents",
+        "items": [
+            {
+                "titles": "精拓生技簡介 About CancerFree Biotech Ltd.",
+                "author": "Cancerfree Biotech",
+                "no": "00008"
+            }
+        ]
+    },
+    "faq": {
+        "title": "FAQ",
+        "items": [
+            {
+                "question": "地點在哪裡?",
+                "answer": "內科創新育成基地 t-Hub  2F"
+            },
+            {
+                "question": "主題故事是甚麼?",
+                "answer": "一場為期9週的暑期實習計劃，這趟旅程充滿挑戰、成長與團隊合作的闖關。大家各自帶著自身經驗前往，集結力量、智力、敏捷於一身。兩個月的團隊打戰與職場經驗加成，透過這2024年度的夏季賽挑戰，讓實習玩家們等級提升到截然不同的境界。"
+            }
+        ]
+    },
+    "registration": {
+        "title": "Registration",
+        "options": [
+            {
+                "link": "https://www.accupass.com/event/2407180906411493447602",
+                "image": "./images/register.jpg"
+            }
+        ],
+        "eventDate": "2024/08/15 13:00:00"
+    },
+    "footer": {
+        "organizer": {
+            "title": "Organizer",
+            "image": "./images/organizer.png"
+        },
+        "coOrganizer": {
+            "title": "Co-organizer",
+            "image": ""
+        },
+        "sponsor": {
+            "title": "Sponsor",
+            "image": ""
+        },
+        "contact": {
+            "title": "Contact Us",
+            "phone": "+886-2-27322701",
+            "address": "3F.-2, No. 56, Lane 258, Ruiguang Rd, Neihu District, Taipei City"
+        }
+    }
+}
